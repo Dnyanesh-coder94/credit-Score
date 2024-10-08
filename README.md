@@ -1,1 +1,1 @@
-# credit-Score
+The objective is to perform comprehensive exploratory data analysis (EDA) on a detailed dataset to create informative features, calculate a hypothetical credit score, and identify meaningful patterns and anomalies, thereby uncovering insights for assessing creditworthiness and risk mitigation.
